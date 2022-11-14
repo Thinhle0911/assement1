@@ -1,0 +1,32 @@
+h1 {
+    font-family: Verdana, sans-serif;
+    font-size: 18px;
+} 
+form {
+    font-size: 14px;
+    color: black;
+}
+
+.Name {
+    padding-right: 30px;
+} 
+
+.Email {
+    padding-right: 30px;
+}
+
+.Product {
+    padding-right: 110px;
+}
+
+.message {
+    padding-right: 30px;
+    padding-bottom: 30px;
+}
+
+.submit {
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
